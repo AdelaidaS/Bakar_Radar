@@ -1,2 +1,5 @@
 # bakar-radar
-Proyecto conjunto para Diputación Foral de Bizkaia entre tres verticales: UX/UI, Full-Stack y Data Science
+Proyecto conjunto para Diputación Foral de Bizkaia entre tres verticales: UX/UI, Full-Stack y Data Science.
+
+El desafío planteaba afrontar el problema de la soledad no deseada en la provincia de Bizkaia desde un enfoque de la administración. Cómo gestiona el empleado de diputación la información que tiene a su alcance y cómo la organiza con el fin de detectar casos y combatirlos para reducir este fenómeno a la mínima expresión posible. 
+En nuestro grupo de trabajo hemos abordado la temática creando una página web / intranet en la que el usuario es la administración. Consta de numerosas funciones que facilitan la organización de informes, un panel de control con gráficas y mapas de calor, chats de mensajería instantánea para la comunicación entre miembros de la plantilla en horario de trabajo, una agenda, planes de acción y un modelo predictivo implementado en web a través de una API, con el fin de conocer con anterioridad zonas o individuos con una tendencia a sufrir esta soledad no deseada y poder tomar medidas correctivas al respecto. 
