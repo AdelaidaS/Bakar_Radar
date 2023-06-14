@@ -1,0 +1,6 @@
+pip install streamlit
+pip install PyPDF2
+pip install PyMuPDF
+pip install fitz 
+pip install hashlib
+
