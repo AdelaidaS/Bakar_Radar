@@ -1,0 +1,49 @@
+Sexo;Edad;Limitación;Total
+Hombres;De 15 a 24 años;Gravemente limitado/a;1,06
+Hombres;De 15 a 24 años;Limitado/a pero no gravemente;5,39
+Hombres;De 15 a 24 años;Nada limitado/a;93,55
+Hombres;De 25 a 34 años;Gravemente limitado/a;0,68
+Hombres;De 25 a 34 años;Limitado/a pero no gravemente;6,42
+Hombres;De 25 a 34 años;Nada limitado/a;92,90
+Hombres;De 35 a 44 años;Gravemente limitado/a;2,39
+Hombres;De 35 a 44 años;Limitado/a pero no gravemente;9,79
+Hombres;De 35 a 44 años;Nada limitado/a;87,82
+Hombres;De 45 a 54 años;Gravemente limitado/a;3,57
+Hombres;De 45 a 54 años;Limitado/a pero no gravemente;13,48
+Hombres;De 45 a 54 años;Nada limitado/a;82,95
+Hombres;De 55 a 64 años;Gravemente limitado/a;4,80
+Hombres;De 55 a 64 años;Limitado/a pero no gravemente;20,96
+Hombres;De 55 a 64 años;Nada limitado/a;74,24
+Hombres;De 65 a 74 años;Gravemente limitado/a;6,20
+Hombres;De 65 a 74 años;Limitado/a pero no gravemente;24,20
+Hombres;De 65 a 74 años;Nada limitado/a;69,61
+Hombres;De 75 a 84 años;Gravemente limitado/a;9,54
+Hombres;De 75 a 84 años;Limitado/a pero no gravemente;34,84
+Hombres;De 75 a 84 años;Nada limitado/a;55,62
+Hombres;De 85 y más años;Gravemente limitado/a;17,00
+Hombres;De 85 y más años;Limitado/a pero no gravemente;43,29
+Hombres;De 85 y más años;Nada limitado/a;39,71
+Mujeres;De 15 a 24 años;Gravemente limitado/a;0,90
+Mujeres;De 15 a 24 años;Limitado/a pero no gravemente;8,39
+Mujeres;De 15 a 24 años;Nada limitado/a;90,71
+Mujeres;De 25 a 34 años;Gravemente limitado/a;1,97
+Mujeres;De 25 a 34 años;Limitado/a pero no gravemente;9,15
+Mujeres;De 25 a 34 años;Nada limitado/a;88,88
+Mujeres;De 35 a 44 años;Gravemente limitado/a;2,68
+Mujeres;De 35 a 44 años;Limitado/a pero no gravemente;11,65
+Mujeres;De 35 a 44 años;Nada limitado/a;85,67
+Mujeres;De 45 a 54 años;Gravemente limitado/a;3,52
+Mujeres;De 45 a 54 años;Limitado/a pero no gravemente;18,59
+Mujeres;De 45 a 54 años;Nada limitado/a;77,89
+Mujeres;De 55 a 64 años;Gravemente limitado/a;4,92
+Mujeres;De 55 a 64 años;Limitado/a pero no gravemente;23,41
+Mujeres;De 55 a 64 años;Nada limitado/a;71,67
+Mujeres;De 65 a 74 años;Gravemente limitado/a;7,16
+Mujeres;De 65 a 74 años;Limitado/a pero no gravemente;28,84
+Mujeres;De 65 a 74 años;Nada limitado/a;64,00
+Mujeres;De 75 a 84 años;Gravemente limitado/a;14,67
+Mujeres;De 75 a 84 años;Limitado/a pero no gravemente;43,71
+Mujeres;De 75 a 84 años;Nada limitado/a;41,62
+Mujeres;De 85 y más años;Gravemente limitado/a;28,54
+Mujeres;De 85 y más años;Limitado/a pero no gravemente;49,96
+Mujeres;De 85 y más años;Nada limitado/a;21,50

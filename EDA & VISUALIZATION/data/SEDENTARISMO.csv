@@ -1,0 +1,35 @@
+"Actividad física de la C.A. de Euskadi(porcentaje) por sexo, edad, actividad y periodo"
+
+"sexo","edad","actividad","2007"
+"Hombres","16-24","Sedentario",39.3
+"Hombres","16-24","Moderado",24.2
+"Hombres","16-24","Activo",19.4
+"Hombres","16-24","Muy activo",17.0
+"Hombres","25-44","Sedentario",52.5
+"Hombres","25-44","Moderado",22.7
+"Hombres","25-44","Activo",12.8
+"Hombres","25-44","Muy activo",12.0
+"Hombres","45-64","Sedentario",49.8
+"Hombres","45-64","Moderado",21.1
+"Hombres","45-64","Activo",17.0
+"Hombres","45-64","Muy activo",12.1
+"Hombres","65 y más","Sedentario",42.7
+"Hombres","65 y más","Moderado",22.3
+"Hombres","65 y más","Activo",21.7
+"Hombres","65 y más","Muy activo",13.4
+"Mujeres","16-24","Sedentario",58.5
+"Mujeres","16-24","Moderado",23.7
+"Mujeres","16-24","Activo",11.8
+"Mujeres","16-24","Muy activo",6.0
+"Mujeres","25-44","Sedentario",58.1
+"Mujeres","25-44","Moderado",21.3
+"Mujeres","25-44","Activo",13.0
+"Mujeres","25-44","Muy activo",7.6
+"Mujeres","45-64","Sedentario",53.5
+"Mujeres","45-64","Moderado",22.4
+"Mujeres","45-64","Activo",15.0
+"Mujeres","45-64","Muy activo",9.1
+"Mujeres","65 y más","Sedentario",60.2
+"Mujeres","65 y más","Moderado",21.0
+"Mujeres","65 y más","Activo",12.3
+"Mujeres","65 y más","Muy activo",6.5
